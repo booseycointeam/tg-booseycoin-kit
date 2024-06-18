@@ -9,8 +9,8 @@ export default defineConfig({
         // intro
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/sticker-feeling-bullish.ts'),
+            type: 'image',
+            src: import('./assets/img/boosey-boxer.png'),
             size: 250,
           },
           shape: 'square',
